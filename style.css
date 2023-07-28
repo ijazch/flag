@@ -1,0 +1,22 @@
+*{    
+background: rgb(21, 41, 41);
+}
+#container{
+    margin: auto;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    display: inline;
+    display: flex;
+    justify-content: flex-start; 
+    flex-wrap: wrap;
+   
+    
+}
+.audiochange{
+    border: 5px solid rgb(232, 11, 191);
+    border-radius: 5px;
+    margin: 20px;
+    height: 100px;
+    width: 200px;
+}
